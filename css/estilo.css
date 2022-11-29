@@ -1,0 +1,55 @@
+#home {
+	background: #ffc107;
+	color: white;
+}
+.caixa{
+	padding: 40px 0;
+}
+.font-padrao{
+	font-size: 2.3em;
+}
+footer p a{
+	text-decoration: none;
+	padding: 2px 24px;
+	font-size: 1.1em;
+	margin-bottom: 25px;
+	opacity: 0.9;
+}
+footer p a:hover{
+	text-decoration: none;
+	opacity: 1;
+}
+body{
+	font-size: 17px;
+}
+#per{
+	width: 300px;
+	margin-left: 25px;
+	
+}
+#jjj{
+	background: #343a40;
+	color: white;
+	margin-top: 65px;
+	height: 518px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.sessao-1 h2{
+	font-size: 50px;
+}
+.sessao-1 p{
+	letter-spacing: 1px;
+	margin-bottom: 10px;
+}
+#container-sessao{
+	border-bottom: 1px solid #343a40;
+}
+.sessao-1 span{
+	border-bottom: 1px solid black;
+	padding: 0;
+	margin: 0;
+	font-weight: bold;
+}
